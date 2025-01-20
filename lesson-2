@@ -1,0 +1,34 @@
+#name = 'tom'
+#print(name)
+#name = 'sam'
+
+
+#num2 = int(num1)
+#print(num2)
+
+#Name = 'musa1'
+#NAME ='musa2'
+#name1 = 'musa3'
+#print('name1')
+#print(Name)
+
+#r = 10
+#pi = 3.14
+#a = 2*pi*r*r
+#print(a)
+
+
+#c = 6
+#f = c*9/5+32
+#print(f)
+#num1 = 10
+#num2 = 12
+#summa = num1+num2
+#delennie = num1/num2
+#kob = num1*num2
+#min = num1-num2
+#print(summa)
+#print(delennie)
+#print(kob)
+#print(min)
+
