@@ -1,0 +1,39 @@
+#name = input("what is your name")
+#print(f'{name}')
+#
+#
+#num1 =int(input('write your first num1-'))
+#num2 = int(input('write your second num2-'))
+#summa = num1+num2
+#print(f'{summa}')
+#
+#
+#price = 12
+#print(type(price))
+#price = price + 4.5
+#print(type(price))
+
+#price1 = str(price)
+#price2 = 60
+#price3 = price + price2
+#print(price3)
+#print(type(price3))
+#print(price3)
+#
+#
+#name = "SAM"
+#print(type(name))
+#
+# 
+# sell = input("how much you sale your phone?")
+# print(sell)
+# money = input("how much you ask")
+# print(money)
+# give = int(100000+50000)
+# print(give)
+# gave = int(150000-50000)
+# print(gave)
+# iwant = (100000)
+# print(iwant)
+# result = iwant-gave
+# print(result)
