@@ -1,0 +1,41 @@
+#age = input('what is your age')
+#print(age)
+#
+#
+#name = 'musa'
+#age = 16
+#print("her name is",name,"her age is",age)
+#print(f"her name is {name} her age is {age}")
+#
+#
+#нельзя:false,true,felse,min,max,and,end,@,+,-,Name
+#
+#
+#num1 = 5
+#num2 = 2.5
+#num3 = int(num2)
+#print(num3)
+#
+#
+#num1 = int(input('write first num1',10))
+#num2 = int(input('write second num2',20'))
+#summa =num1+num2
+#delennie = num1/num2
+#kob = num1*num2
+#min = num1-num2
+#print(summa)
+#print(delennie)
+#print(kob)
+#print(min)
+#
+#
+#num1 = float(input('write first num1,20.5'))
+#num2 = float(input('write second num2,3.7'))
+#summa = num1+num2
+#delenie = num1/num2
+#kob = num1*num2
+#min = num1-num2
+#print(summa)
+#print(delenie)
+#print(kob)
+#print(min)
